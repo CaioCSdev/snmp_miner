@@ -1,0 +1,14 @@
+[project]
+name = "snmp-miner"
+version = "0.1.0"
+description = "Mines SNMP data in a nicely formatted way from network devices."
+readme = "README.md"
+authors = [
+    { name = "Caio Salgado", email = "caio.csalgado@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[build-system]
+requires = ["uv_build>=0.9.7,<0.10.0"]
+build-backend = "uv_build"
