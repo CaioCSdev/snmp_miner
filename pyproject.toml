@@ -1,6 +1,6 @@
 [project]
-name = "snmp-miner"
-version = "0.2.0"
+name = "snmp_miner"
+version = "0.2.1a1"
 description = "Mines SNMP data from network devices in a nicely formatted way."
 readme = "README.md"
 license = "MIT"
